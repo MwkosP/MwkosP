@@ -34,27 +34,28 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.python.org" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60"/>
   </a>
   <a href="https://www.w3.org/html/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
+    <img src="https://img.icons8.com/color/60/000000/html-5--v1.png"/>
   </a>
   <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/css3.png"/>
+    <img src="https://img.icons8.com/color/60/000000/css3.png"/>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
+    <img src="https://img.icons8.com/color/60/000000/javascript.png"/>
   </a>
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/c-programming.png"/>
+    <img src="https://img.icons8.com/color/60/000000/c-programming.png"/>
   </a>
   <a href="https://colab.research.google.com/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/google-colab.png"/>
+    <img src="https://img.icons8.com/color/60/000000/google-colab.png"/>
   </a>
   <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
+    <img src="https://img.icons8.com/color/60/000000/visual-studio-code-2019.png"/>
   </a>
 </p>
+
 
   
 
