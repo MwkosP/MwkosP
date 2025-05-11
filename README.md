@@ -49,6 +49,14 @@
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/c-programming.png"/>
   </a>
+  <a href="https://colab.research.google.com/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/google-colab.png"/>
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
+  </a>
+</p>
+
   
 
 
