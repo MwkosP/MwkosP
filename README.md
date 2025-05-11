@@ -55,3 +55,10 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MwkosP&" alt="MwkosP" /></p>
 
 [![MwkosP's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MwkosP&theme=github-compact)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+
+![snake gif](https://github.com/MwkosP/MwkosP/blob/output/github-contribution-grid-snake.svg)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-0078d7?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+[![trophy](https://github-profile-trophy.vercel.app/?username=MwkosP&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
