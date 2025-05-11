@@ -74,8 +74,9 @@
 ---
 <h3 align="center">Check out my pinned repositories below</h3>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/feathericons/feather/master/icons/arrow-down-circle.svg" width="50" height="50" alt="Down arrow" style="filter: invert(33%) sepia(92%) saturate(355%) hue-rotate(86deg) brightness(92%) contrast(94%);" />
+  <img src="https://raw.githubusercontent.com/feathericons/feather/master/icons/arrow-down-circle.svg" width="50" height="50" alt="Down arrow" style="filter: hue-rotate(135deg) saturate(100%) brightness(100%);" />
 </p>
+
 
 
 
