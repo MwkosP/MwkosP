@@ -76,8 +76,8 @@
 <h3 align="left">Projects (Pinned):</h3>
 <br/>
 
-<!-- GitHub Pinned Repos in Grid Format -->
-<p align="center">
+<!-- GitHub Pinned Repos in 2x2 Grid Format -->
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px; justify-items: center;">
   <a href="https://github.com/MwkosP/GAS" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=MwkosP&repo=GAS" alt="GAS" width="200" height="auto"/>
   </a>
@@ -90,7 +90,8 @@
   <a href="https://github.com/MwkosP/Web-Development-Projects" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=MwkosP&repo=Web-Development-Projects" alt="Web Development Projects" width="200" height="auto"/>
   </a>
-</p>
+</div>
+
 
 
 
