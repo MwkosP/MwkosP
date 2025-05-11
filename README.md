@@ -72,7 +72,8 @@
 [![MwkosP's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MwkosP&theme=github-compact)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 ---
-<h3 align="center">Check out my pinned repositories below</h3>
+<h3 align="left">Projects:</h3>
+<h2 align="center">Check out my pinned repositories below</h2>
 <p align="center">
   <img src="https://raw.githubusercontent.com/feathericons/feather/master/icons/arrow-down-circle.svg" width="40" height="40" alt="Down arrow" />
 </p>
