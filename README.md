@@ -78,10 +78,10 @@
 
 <!-- GitHub Pinned Repos -->
 <p align="left">
-  <a href="https://github.com/MwkosP/GAS" target="_blank">
+  <a href="https://github.com/MwkosP/GAS" target="_blank" align="left">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=MwkosP&repo=GAS" alt="GAS" />
   </a>
-  <a href="https://github.com/MwkosP/Machine-Learning-Projects" target="_blank">
+  <a href="https://github.com/MwkosP/Machine-Learning-Projects" target="_blank" align="center">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=MwkosP&repo=Machine-Learning-Projects" alt="Machine Learning Projects" />
   </a>
   <a href="https://github.com/MwkosP/Python-Projects" target="_blank">
