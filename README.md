@@ -12,8 +12,9 @@
 - 🎓 Final-year student at University of Macedonia      
 
 - 📫 How to reach me **Mwkospanagiotis@gmail.com**
--   
-- 💬 Ask me **Anything**     
+ 
+- 💬 Ask me **Anything**
+    
 - ⚡ Fun fact **Chess.com rating: 1500, I trade Crypto**  
 
 
