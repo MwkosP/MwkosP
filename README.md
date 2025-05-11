@@ -73,11 +73,11 @@
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MwkosP&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
     </td>
-    <td>
-      [![MwkosP's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MwkosP&theme=github-compact)](https://github.com/Ashutosh00710/github-readme-activity-graph)
-    </td>
+          [![MwkosP's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MwkosP&theme=github-compact)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+
   </tr>
 </table>
+
 
 ---
 <h3 align="left">Featured Pinned Projects:</h3>
