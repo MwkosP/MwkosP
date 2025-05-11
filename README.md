@@ -11,9 +11,10 @@
     <img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="linkedin" height="40" width="40" />
   </a>
   <a href="https://twitter.com/YOUR-TWITTER" target="blank">
-    <img align="center" src="https://img.icons8.com/color/48/000000/twitter.png" alt="twitter" height="40" width="40" />
+    <img align="center" src="https://img.icons8.com/color/48/000000/twitter-new-logo.png" alt="twitter" height="40" width="40" style="border:none;" />
   </a>
 </p>
+
 
 
 
