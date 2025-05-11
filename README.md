@@ -64,21 +64,10 @@
 
 ---
 <h3 align="left">GitHub Stats:</h3>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MwkosP&theme=default" alt="Streak Stats" />
 
-<!-- Flexbox Container -->
-<div style="display: flex; flex-wrap: wrap; justify-content: space-evenly; gap: 10px;">
-  
-  <!-- Streak Stats Image -->
-  <div style="flex: 1 1 45%; text-align: center;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MwkosP&theme=default" alt="Streak Stats" style="width: 100%; max-width: 500px; height: auto;"/>
-  </div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=MwkosP&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 
-  <!-- Top Languages Image -->
-  <div style="flex: 1 1 45%; text-align: center;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MwkosP&show_icons=true&locale=en&layout=compact" alt="Top Languages" style="width: 100%; max-width: 500px; height: auto;"/>
-  </div>
-
-</div>
 
 [![MwkosP's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MwkosP&theme=github-compact)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
