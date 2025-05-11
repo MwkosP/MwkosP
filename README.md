@@ -13,6 +13,7 @@
 - ⚡ Fun fact **Chess.com rating: 1500, I trade Crypto**  
 
 
+
 ---
 
 <h3 align="left">Languages and Tools:</h3>
