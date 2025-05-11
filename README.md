@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Panagiotis Mokos</h1>
 <h3 align="center">A passionate ML and Web Dev Undergraduate Student from Greece</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=MwkosP&label=Profile%20views&color=0e75b6&style=flat" alt="Panagiotis Mokos" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MwkosP&label=Profile%20views&color=0e75b6&style=flat" alt="MwkosP" /> </p>
 
 - 🌱 I’m currently learning **ML/NN and Web Dev**
 
@@ -22,6 +22,6 @@
   <!-- Add more tools/icons as needed -->
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=YOURUSERNAME&show_icons=true&locale=en&layout=compact" alt="YOURUSERNAME" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MwkosP&show_icons=true&locale=en&layout=compact" alt="MwkosP" /></p>
 
 <p>&nbsp;<img align
