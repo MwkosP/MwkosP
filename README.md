@@ -86,14 +86,14 @@
   </a>
 </p>
 
-<p align="left">
+
   <a href="https://github.com/MwkosP/Python-Projects" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=MwkosP&repo=Python-Projects" alt="Python Projects" />
   </a>
   <a href="https://github.com/MwkosP/Web-Development-Projects" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=MwkosP&repo=Web-Development-Projects" alt="Web Development Projects" />
   </a>
-</p>
+
 
 
 
