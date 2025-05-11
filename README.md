@@ -81,19 +81,11 @@
 
 
 ---
-<h3 align="left">Featured Pinned Projects:</h3>
+<h3 align="left">GitHub Stats:</h3>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MwkosP&theme=default" alt="Streak Stats" />
 
-<p align="left">
-  <a href="https://github.com/MwkosP/Project1" target="_blank">
-    <img src="https://img.shields.io/badge/Project%201-Example-blue?style=for-the-badge" alt="Project 1"/>
-  </a>
-  <a href="https://github.com/MwkosP/Project2" target="_blank">
-    <img src="https://img.shields.io/badge/Project%202-Example-green?style=for-the-badge" alt="Project 2"/>
-  </a>
-  <a href="https://github.com/MwkosP/Project3" target="_blank">
-    <img src="https://img.shields.io/badge/Project%203-Example-red?style=for-the-badge" alt="Project 3"/>
-  </a>
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=MwkosP&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+
 
 [![MwkosP's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MwkosP&theme=github-compact)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
