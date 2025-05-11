@@ -11,9 +11,11 @@
     <img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="linkedin" height="40" width="40" />
   </a>
   <a href="https://twitter.com/YOUR-TWITTER" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/X_logo_2023_original.svg" alt="twitter" height="40" width="40" />
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/X_logo_2023_original.svg" alt="twitter" height="40" width="40" />
   </a>
 </p>
+
+
 
 
 
