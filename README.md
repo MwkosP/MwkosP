@@ -24,14 +24,10 @@
 - 📧 How to reach me **Mwkospanagiotis@gmail.com**
  
 - 💬 Ask me **Anything**
-    
 - ⚡ Fun fact **Chess.com rating: 1500, I trade Crypto**  
 
 
 
----
-
-<h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.python.org" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="65" height="65"/>
