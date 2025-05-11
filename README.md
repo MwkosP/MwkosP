@@ -8,7 +8,7 @@
 
 
 <p align="center">
-  <a href="[https://linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/panagiotis-mokos-09237a254/)" target="blank">
+  <a href="https://www.linkedin.com/in/panagiotis-mokos-09237a254/" target="blank">
     <img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="linkedin" height="40" width="40" />
   </a>
   <a href="https://twitter.com/YOUR-TWITTER" target="blank">
