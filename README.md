@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm YOUR NAME</h1>
-<h3 align="center">A passionate YOUR TITLE (e.g., Full Stack Developer) from COUNTRY</h3>
+<h1 align="center">Hi 👋, I'm Panagiotis Mokos</h1>
+<h3 align="center">A passionate ML and Web Dev Undergraduate Studemt from Greece</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=YOURUSERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="YOURUSERNAME" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=YOURUSERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="Panagiotis Mokos" /> </p>
 
 - 🌱 I’m currently learning **TECHNOLOGIES**
 
