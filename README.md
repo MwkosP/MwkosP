@@ -1,9 +1,11 @@
-  <h1 align="center">Hi 👋, I'm Panagiotis Mokos</h1>
-<h3 align="center">A passionate ML and Web Dev Undergraduate Student from Greece</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=MwkosP&label=Profile%20views&color=0e75b6&style=flat" alt="MwkosP" />
 </p>
+
+<h1 align="center">Hi 👋, I'm Panagiotis Mokos</h1>
+<h3 align="center">A passionate ML and Web Dev Undergraduate Student from Greece</h3>
+
 
 <p align="center">
   <a href="https://linkedin.com/in/YOUR-LINKEDIN" target="blank">
