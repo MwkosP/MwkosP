@@ -76,47 +76,22 @@
 <h3 align="left">Projects (Pinned):</h3>
 <br/>
 
-<!-- First Row -->
+<!-- GitHub Pinned Repos - 2x2 grid layout -->
 <p align="left">
   <a href="https://github.com/MwkosP/GAS" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MwkosP&repo=GAS" alt="GAS" width="200" height="auto" align="left" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MwkosP&repo=GAS" alt="GAS" />
   </a>
   <a href="https://github.com/MwkosP/Machine-Learning-Projects" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MwkosP&repo=Machine-Learning-Projects" alt="Machine Learning Projects" width="200" height="auto" align="left" />
-  </a>
-  <a href="https://github.com/MwkosP/Python-Projects" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MwkosP&repo=Python-Projects" alt="Python Projects" width="200" height="auto" align="left" />
-  </a>
-  <a href="https://github.com/MwkosP/Web-Development-Projects" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MwkosP&repo=Web-Development-Projects" alt="Web Development Projects" width="200" height="auto" align="left" />
-  </a>
-  <a href="https://github.com/MwkosP/Project-5" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MwkosP&repo=Project-5" alt="Project 5" width="200" height="auto" align="left" />
-  </a>
-  <a href="https://github.com/MwkosP/Project-6" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MwkosP&repo=Project-6" alt="Project 6" width="200" height="auto" align="left" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MwkosP&repo=Machine-Learning-Projects" alt="Machine Learning Projects" />
   </a>
 </p>
 
-<!-- Second Row -->
 <p align="left">
-  <a href="https://github.com/MwkosP/Project-7" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MwkosP&repo=Project-7" alt="Project 7" width="200" height="auto" align="left" />
+  <a href="https://github.com/MwkosP/Python-Projects" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MwkosP&repo=Python-Projects" alt="Python Projects" />
   </a>
-  <a href="https://github.com/MwkosP/Project-8" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MwkosP&repo=Project-8" alt="Project 8" width="200" height="auto" align="left" />
-  </a>
-  <a href="https://github.com/MwkosP/Project-9" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MwkosP&repo=Project-9" alt="Project 9" width="200" height="auto" align="left" />
-  </a>
-  <a href="https://github.com/MwkosP/Project-10" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MwkosP&repo=Project-10" alt="Project 10" width="200" height="auto" align="left" />
-  </a>
-  <a href="https://github.com/MwkosP/Project-11" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MwkosP&repo=Project-11" alt="Project 11" width="200" height="auto" align="left" />
-  </a>
-  <a href="https://github.com/MwkosP/Project-12" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MwkosP&repo=Project-12" alt="Project 12" width="200" height="auto" align="left" />
+  <a href="https://github.com/MwkosP/Web-Development-Projects" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MwkosP&repo=Web-Development-Projects" alt="Web Development Projects" />
   </a>
 </p>
 
