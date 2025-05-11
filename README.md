@@ -17,7 +17,7 @@
 </p>
 
 
-<h3 align="left">About me:</h3>
+<h2 align="left">About me:</h2>
 <br/>
 
 
@@ -63,7 +63,7 @@
 
 
 ---
-<h3 align="left">GitHub Stats:</h3> 
+<h2 align="left">GitHub Stats:</h2> 
 <br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=MwkosP&theme=default" alt="Streak Stats" align="left"/>
@@ -72,8 +72,8 @@
 [![MwkosP's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MwkosP&theme=github-compact)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 ---
-<h3 align="left">Projects:</h3>
-<h2 align="center">Check out my pinned repositories below</h2>
+<h2 align="left">Projects:</h2>
+<h3 align="center">Check out my pinned repositories below</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/feathericons/feather/master/icons/arrow-down-circle.svg" width="40" height="40" alt="Down arrow" />
 </p>
