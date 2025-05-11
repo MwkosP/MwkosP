@@ -72,44 +72,7 @@
 [![MwkosP's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MwkosP&theme=github-compact)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 
----
-<h3 align="left">Projects (Pinned):</h3>
-<br/>
 
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/MwkosP/Breast-Cancer-Classification-with-NN" target="_blank">
-        <img src="https://miro.medium.com/v2/resize:fit:800/format:webp/1*jfMnB0cdHQRYn2Hz1ozYew.png" alt="Breast Cancer Classification" width="400" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/MwkosP/GAS" target="_blank">
-        <img src="https://cryptologos.cc/logos/bitcoin-btc-logo.png?v=032" alt="GAS Project" width="400" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/MwkosP/Machine-Learning-Projects" target="_blank">
-        <img src="https://repository-images.githubusercontent.com/447168644/45a57e3e-94a7-4bd0-8039-2061432fef07" alt="Machine Learning Projects" width="400" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/MwkosP/Python-Projects" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python Projects" width="400" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/MwkosP/Web-Development-Projects" target="_blank">
-        <img src="https://cdn.dribbble.com/users/1146013/screenshots/12175938/media/1d0e0d6a3a42ed61b58bb2be31c2f93a.png" alt="Web Dev Projects" width="400" />
-      </a>
-    </td>
-    <td></td>
-  </tr>
-</table>
 
 
 
