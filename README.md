@@ -65,17 +65,20 @@
 ---
 <h3 align="left">GitHub Stats:</h3>
 
-<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
-  <div style="flex: 1; margin-right: 10px; min-width: 300px;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MwkosP&theme=default" alt="Streak Stats" style="width: 100%; height: auto;" />
-  </div>
-  
-  <div style="flex: 1; margin-left: 10px; min-width: 300px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MwkosP&show_icons=true&locale=en&layout=compact" alt="Top Languages" style="width: 100%; height: auto;" />
-  </div>
-</div>
+<table style="width: 100%; table-layout: fixed;">
+  <tr>
+    <td style="width: 50%; padding-right: 10px; text-align: center;">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=MwkosP&theme=default" alt="Streak Stats" style="width: 100%; height: auto;" />
+    </td>
+    <td style="width: 50%; padding-left: 10px; text-align: center;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MwkosP&show_icons=true&locale=en&layout=compact" alt="Top Languages" style="width: 100%; height: auto;" />
+    </td>
+  </tr>
+</table>
 
 [![MwkosP's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MwkosP&theme=github-compact)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+``
+
 
 
 
