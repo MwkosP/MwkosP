@@ -76,24 +76,41 @@
 <h3 align="left">Projects (Pinned):</h3>
 <br/>
 
-<!-- GitHub Pinned Repos - 1x6 grid layout -->
-<p align="left">
- <a href="https://github.com/MwkosP/Breast-Cancer-Classification-with-NN" target="_blank">
-    <img src="" alt="GAS" />
-  </a>
-  <a href="[https://github.com/MwkosP/Machine-Learning-Projects](https://github.com/MwkosP/Breast-Cancer-Classification-with-NN)" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MwkosP&repo=Machine-Learning-Projects" alt="Machine Learning Projects" />
-  </a>
-  <a href="https://github.com/MwkosP/Python-Projects" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MwkosP&repo=Python-Projects" alt="Python Projects" />
-  </a>
-  <a href="https://github.com/MwkosP/Web-Development-Projects" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MwkosP&repo=Web-Development-Projects" alt="Web Development Projects" />
-  </a>
-<p/>
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/MwkosP/Breast-Cancer-Classification-with-NN" target="_blank">
+        <img src="https://miro.medium.com/v2/resize:fit:800/format:webp/1*jfMnB0cdHQRYn2Hz1ozYew.png" alt="Breast Cancer Classification with NN" width="400"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/MwkosP/Machine-Learning-Projects" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MwkosP&repo=Machine-Learning-Projects" alt="Machine Learning Projects" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/MwkosP/Python-Projects" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MwkosP&repo=Python-Projects" alt="Python Projects" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/MwkosP/Web-Development-Projects" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MwkosP&repo=Web-Development-Projects" alt="Web Development Projects" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/MwkosP/GAS" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MwkosP&repo=GAS" alt="GAS" />
+      </a>
+    </td>
+    <td></td>
+  </tr>
+</table>
 
-
-https://github.com/MwkosP/Breast-Cancer-Classification-with-NN
 
 
 
