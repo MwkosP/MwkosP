@@ -76,26 +76,26 @@
 <h3 align="left">Projects (Pinned):</h3>
 <br/>
 
-<!-- GitHub Pinned Repos in 2x2 Grid Format -->
+<!-- First Row -->
 <p align="left">
-  <!-- First Row (1st project on the left and 2nd on the right) -->
-  <a href="https://github.com/MwkosP/GAS" target="_blank" style="display: inline-block; width: 45%; margin-right: 10%; text-align: center;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MwkosP&repo=GAS" alt="GAS" width="200" height="auto"/>
+  <a href="https://github.com/MwkosP/GAS" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MwkosP&repo=GAS" alt="GAS" width="200" height="auto" align="left" />
   </a>
-  <a href="https://github.com/MwkosP/Machine-Learning-Projects" target="_blank" style="display: inline-block; width: 45%; text-align: center;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MwkosP&repo=Machine-Learning-Projects" alt="Machine Learning Projects" width="200" height="auto"/>
+  <a href="https://github.com/MwkosP/Machine-Learning-Projects" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MwkosP&repo=Machine-Learning-Projects" alt="Machine Learning Projects" width="200" height="auto" align="right" />
   </a>
 </p>
 
+<!-- Second Row -->
 <p align="left">
-  <!-- Second Row (3rd project on the left and 4th on the right) -->
-  <a href="https://github.com/MwkosP/Python-Projects" target="_blank" style="display: inline-block; width: 45%; margin-right: 10%; text-align: center;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MwkosP&repo=Python-Projects" alt="Python Projects" width="200" height="auto"/>
+  <a href="https://github.com/MwkosP/Python-Projects" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MwkosP&repo=Python-Projects" alt="Python Projects" width="200" height="auto" align="left" />
   </a>
-  <a href="https://github.com/MwkosP/Web-Development-Projects" target="_blank" style="display: inline-block; width: 45%; text-align: center;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MwkosP&repo=Web-Development-Projects" alt="Web Development Projects" width="200" height="auto"/>
+  <a href="https://github.com/MwkosP/Web-Development-Projects" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MwkosP&repo=Web-Development-Projects" alt="Web Development Projects" width="200" height="auto" align="right" />
   </a>
 </p>
+
 
 
 
