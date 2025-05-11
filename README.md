@@ -67,17 +67,34 @@
 
 <table style="width: 100%; table-layout: fixed;">
   <tr>
-    <td style="width: 50%; padding-right: 10px; text-align: center;">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=MwkosP&theme=default" alt="Streak Stats" style="width: 100%; height: auto;" />
+    <td style="text-align: center; padding-right: 10px; display: flex; justify-content: center;">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=MwkosP&theme=default" alt="Streak Stats" style="width: 100%; max-width: 500px; height: auto;" />
     </td>
-    <td style="width: 50%; padding-left: 10px; text-align: center;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MwkosP&show_icons=true&locale=en&layout=compact" alt="Top Languages" style="width: 100%; height: auto;" />
+    <td style="text-align: center; padding-left: 10px; display: flex; justify-content: center;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MwkosP&show_icons=true&locale=en&layout=compact" alt="Top Languages" style="width: 100%; max-width: 500px; height: auto;" />
     </td>
   </tr>
 </table>
 
 [![MwkosP's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MwkosP&theme=github-compact)](https://github.com/Ashutosh00710/github-readme-activity-graph)
-``
+
+<style>
+  @media (max-width: 768px) {
+    table {
+      display: block;
+      width: 100%;
+    }
+    td {
+      display: block;
+      width: 100%;
+      padding: 10px 0;
+    }
+    img {
+      max-width: 100%;
+    }
+  }
+</style>
+
 
 
 
