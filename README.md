@@ -74,8 +74,9 @@
 ---
 <h3 align="center">Check out my pinned repositories below</h3>
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Arrow_down_green.svg/1024px-Arrow_down_green.svg.png" width="50" height="50" alt="Down arrow" />
+  <img src="https://raw.githubusercontent.com/feathericons/feather/master/icons/arrow-down-circle.svg" width="40" height="40" alt="Down arrow" />
 </p>
+
 
 
 
