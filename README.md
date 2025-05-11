@@ -22,7 +22,7 @@
 
 - 🎓 Final-year student at University of Macedonia      
 
-- 📫 How to reach me **Mwkospanagiotis@gmail.com**
+- 📧 How to reach me **Mwkospanagiotis@gmail.com**
  
 - 💬 Ask me **Anything**
     
