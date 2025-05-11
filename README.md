@@ -77,7 +77,7 @@
 <br/>
 
 <!-- First Row -->
-<p align="left">
+<p >
   <a href="https://github.com/MwkosP/GAS" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=MwkosP&repo=GAS" alt="GAS" width="200" height="auto" align="left" />
   </a>
@@ -87,7 +87,7 @@
 </p>
 
 <!-- Second Row -->
-<p align="left">
+<p >
   <a href="https://github.com/MwkosP/Python-Projects" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=MwkosP&repo=Python-Projects" alt="Python Projects" width="200" height="auto" align="left" />
   </a>
