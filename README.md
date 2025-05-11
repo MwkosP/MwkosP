@@ -18,11 +18,8 @@
 <h3 align="left">About me:</h3>
 
 - 🌱 I’m currently learning **Machine Learning / Neural Networks and Web Development**       
-
 - 🎓 Final-year student at University of Macedonia      
-
 - 📧 How to reach me **Mwkospanagiotis@gmail.com**
- 
 - 💬 Ask me **Anything**
 - ⚡ Fun fact **Chess.com rating: 1500, I trade Crypto**  
 
