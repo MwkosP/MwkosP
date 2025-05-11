@@ -79,7 +79,7 @@
 <!-- GitHub Pinned Repos - 1x6 grid layout -->
 <p align="left">
   <a href="[https://github.com/MwkosP/GAS](https://github.com/MwkosP/Breast-Cancer-Classification-with-NN)" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MwkosP&repo=GAS" alt="GAS" />
+    <img src="[https://github-readme-stats.vercel.app/api/pin/?username=MwkosP&repo=GAS](https://github.com/MwkosP/Breast-Cancer-Classification-with-NN)" alt="GAS" />
   </a>
   <a href="https://github.com/MwkosP/Machine-Learning-Projects" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=MwkosP&repo=Machine-Learning-Projects" alt="Machine Learning Projects" />
