@@ -9,7 +9,7 @@
 - 🎓 Final-year student at University of Macedonia
 - 📫 How to reach me **Mwkospanagiotis@gmail.com**
 - 💬 Ask me **Anything**
-- ⚡ Fun fact **I love learning by building.**
+- ⚡ Fun fact **Chess.com rating: 1500, I trade Crypto**
 
 ---
 
