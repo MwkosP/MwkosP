@@ -36,6 +36,9 @@
   <a href="https://www.python.org" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60"/>
   </a>
+  <a href="https://www.java.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" height="60"/>
+  </a>
   <a href="https://www.w3.org/html/" target="_blank">
     <img src="https://img.icons8.com/color/60/000000/html-5--v1.png"/>
   </a>
@@ -55,11 +58,6 @@
     <img src="https://img.icons8.com/color/60/000000/visual-studio-code-2019.png"/>
   </a>
 </p>
-
-
-  
-
-
 
 
 </p>
