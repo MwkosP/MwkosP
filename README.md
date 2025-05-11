@@ -80,7 +80,7 @@
   <tr>
     <td>
       <a href="https://github.com/MwkosP/Breast-Cancer-Classification-with-NN" target="_blank">
-        <img src="https://miro.medium.com/v2/resize:fit:800/format:webp/1*jfMnB0cdHQRYn2Hz1ozYew.png" alt="Breast Cancer Classification with NN" width="400"/>
+       <img src="https://miro.medium.com/v2/resize:fit:800/format:webp/1*jfMnB0cdHQRYn2Hz1ozYew.png" alt="Breast Cancer Classification with NN" width="400"/>
       </a>
     </td>
     <td>
