@@ -94,6 +94,7 @@
   </a>
 </p>
 
+[![MwkosP's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MwkosP&theme=github-compact)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 
 
