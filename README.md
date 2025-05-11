@@ -84,7 +84,7 @@
   <a href="https://github.com/MwkosP/Machine-Learning-Projects" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=MwkosP&repo=Machine-Learning-Projects" alt="Machine Learning Projects" />
   </a>
-</p>
+
 
 
   <a href="https://github.com/MwkosP/Python-Projects" target="_blank">
