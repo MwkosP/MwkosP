@@ -78,7 +78,7 @@
 
 <!-- GitHub Pinned Repos - 1x6 grid layout -->
 <p align="left">
-  <a href="" target="_blank">
+ <a href="https://github.com/MwkosP/Breast-Cancer-Classification-with-NN" target="_blank">
     <img src="" alt="GAS" />
   </a>
   <a href="https://github.com/MwkosP/Machine-Learning-Projects" target="_blank">
