@@ -8,12 +8,13 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/YOUR-LINKEDIN" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="30" width="40" style="color:#0077B5" />
+    <img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="linkedin" height="30" width="40" />
   </a>
   <a href="https://twitter.com/YOUR-TWITTER" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="twitter" height="30" width="40" style="color:#1DA1F2" />
+    <img align="center" src="https://img.icons8.com/color/48/000000/twitter.png" alt="twitter" height="30" width="40" />
   </a>
 </p>
+
 
 
 <h3 align="left">About me:</h3>
