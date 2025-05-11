@@ -23,7 +23,7 @@
   </a>
 </p>
 
----
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -42,9 +42,7 @@
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/c-programming.png"/>
   </a>
-  <a href="https://threejs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/mwkosP/mwkosP-assets/main/threejs-icon.svg" alt="three.js" height="48" width="48"/>
-  </a>
+  
 </p>
 
 ---
