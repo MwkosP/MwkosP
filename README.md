@@ -73,22 +73,11 @@
 
 ---
 <h3 align="left">Projects (Pinned):</h3>
-<br/>
+<h3 align="center">Check out my pinned repositories below</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/feathericons/feather/master/icons/arrow-down-circle.svg" width="40" height="40" alt="Down arrow" />
+</p>
 
-<table>
-  <tr>
-    <td><a href="https://github.com/MwkosP/Breast-Cancer-Classification-with-NN">Breast Cancer Classification with NN</a></td>
-    <td><a href="https://github.com/MwkosP/GAS">GAS</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/MwkosP/Machine-Learning-Projects">Machine Learning Projects</a></td>
-    <td><a href="https://github.com/MwkosP/Python-Projects">Python Projects</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/MwkosP/Web-Development-Projects">Web Development Projects</a></td>
-    <td></td>
-  </tr>
-</table>
 
 
 
