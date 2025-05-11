@@ -5,8 +5,8 @@
   <img src="https://komarev.com/ghpvc/?username=MwkosP&label=Profile%20views&color=0e75b6&style=flat" alt="MwkosP" />
 </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+
+<p >
   <a href="https://linkedin.com/in/YOUR-LINKEDIN" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="30" width="40" />
   </a>
