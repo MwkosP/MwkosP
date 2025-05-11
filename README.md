@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MwkosP&label=Profile%20views&color=0e75b6&style=flat" alt="Panagiotis Mokos" /> </p>
 
-- 🌱 I’m currently learning **TECHNOLOGIES**
+- 🌱 I’m currently learning **ML/NN and Web Dev**
 
 - 💬 Ask me about **TECH, TOPICS, ETC.**
 
-- 📫 How to reach me **YOUR EMAIL OR LINKEDIN**
+- 📫 How to reach me **Mwkospanagiotis@gmail.com**
 
-- ⚡ Fun fact **Something quirky or fun**
+- ⚡ Fun fact ****
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
