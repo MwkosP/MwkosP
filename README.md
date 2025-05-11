@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Panagiotis Mokos</h1>
-<h3 align="center">A passionate ML and Web Dev Undergraduate Studemt from Greece</h3>
+<h3 align="center">A passionate ML and Web Dev Undergraduate Student from Greece</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MwkosP&label=Profile%20views&color=0e75b6&style=flat" alt="Panagiotis Mokos" /> </p>
 
 - 🌱 I’m currently learning **ML/NN and Web Dev**
 
-- 💬 Ask me about **TECH, TOPICS, ETC.**
+- 💬 Ask me **Anything.**
 
 - 📫 How to reach me **Mwkospanagiotis@gmail.com**
-
-- ⚡ Fun fact ****
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
