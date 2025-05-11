@@ -6,8 +6,9 @@
 </p>
 
 - 🌱 I’m currently learning **Machine Learning / Neural Networks and Web Development**
-- 💬 Ask me **Anything**
+- 🎓 Final-year student at University of Macedonia
 - 📫 How to reach me **Mwkospanagiotis@gmail.com**
+- 💬 Ask me **Anything**
 - ⚡ Fun fact **I love learning by building.**
 
 ---
@@ -29,17 +30,20 @@
   <a href="https://www.python.org" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/python.png"/>
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/react-native.png"/>
-  </a>
   <a href="https://www.w3.org/html/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
   </a>
   <a href="https://www.w3schools.com/css/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/css3.png"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
+  </a>
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/c-programming.png"/>
+  </a>
+  <a href="https://threejs.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/mwkosP/mwkosP-assets/main/threejs-icon.svg" alt="three.js" height="48" width="48"/>
   </a>
 </p>
 
