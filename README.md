@@ -56,8 +56,8 @@
 <h2 align="left">🌐 Web Frameworks Backend & Frontend: (FastApi, NextJS, React, Tailwind)</h2>
 
 <p align="center">
-  <a href="https://react.dev/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="65" height="65"/>
+  <a href="https://fastapi.tiangolo.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="65" height="65"/>
   </a>
   <a href="https://nextjs.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="65" height="65"/>
@@ -65,8 +65,8 @@
   <a href="https://tailwindcss.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="65" height="65"/>
   </a>
-  <a href="https://fastapi.tiangolo.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="65" height="65"/>
+  <a href="https://react.dev/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="65" height="65"/>
   </a>
 </p>
 
