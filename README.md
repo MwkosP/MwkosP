@@ -43,6 +43,9 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://img.icons8.com/color/65/000000/javascript.png"/>
   </a>
+  <a href="https://www.typescriptlang.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="65" height="65"/>
+  </a>
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
     <img src="https://img.icons8.com/color/65/000000/c-programming.png"/>
   </a>
@@ -53,11 +56,17 @@
 <h2 align="left">🌐 Web Frameworks & Frontend:</h2>
 
 <p align="center">
+  <a href="https://react.dev/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="65" height="65"/>
+  </a>
   <a href="https://nextjs.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="65" height="65"/>
   </a>
   <a href="https://tailwindcss.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="65" height="65"/>
+  </a>
+  <a href="https://fastapi.tiangolo.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="65" height="65"/>
   </a>
 </p>
 
@@ -107,4 +116,12 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=MwkosP&theme=default" alt="Streak Stats" align="left"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MwkosP&show_icons=true&locale=en&layout=compact" alt="Top Languages" align="center"/>
 
-[![MwkosP's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MwkosP&theme=github-compact)](https://github.com/Ashutosh00710/github-readme-)
+[![MwkosP's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MwkosP&theme=github-compact)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+
+---
+
+<h2 align="left">🚀 Projects:</h2>
+<h3 align="center">Check out my pinned repositories below!!</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/feathericons/feather/master/icons/arrow-down-circle.svg" width="40" height="40" alt="Down arrow" />
+</p>
