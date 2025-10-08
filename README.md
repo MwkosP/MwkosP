@@ -53,7 +53,7 @@
 
 ---
 
-<h2 align="left">🌐 Web Frameworks & Frontend:</h2>
+<h2 align="left">🌐 Web Frameworks Backend & Frontend: (FastApi, NextJS, React, Tailwind)</h2>
 
 <p align="center">
   <a href="https://react.dev/" target="_blank">
@@ -72,7 +72,7 @@
 
 ---
 
-<h2 align="left">🤖 Machine Learning / AI Libraries:</h2>
+<h2 align="left">🤖 Machine Learning / AI Libraries: (Numpy, Pandas, TensorFlow, Pytorch, Scikit, MatplotLib) </h2>
 
 <p align="center">
   <a href="https://www.tensorflow.org/" target="_blank">
@@ -97,7 +97,7 @@
 
 ---
 
-<h2 align="left">🛠️ Tools & IDEs:</h2>
+<h2 align="left">🛠️ Tools & IDEs: (Visual Stucio Code, Google Colab, jupyter Notebook)</h2>
 
 <p align="center">
   <a href="https://colab.research.google.com/" target="_blank">
