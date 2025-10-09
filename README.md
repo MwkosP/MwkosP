@@ -25,7 +25,7 @@
 
 ---
 
-<h2 align="left">🧠 Languages:</h2>
+<h2 align="left">🧠 Languages:(Python, HTML, CSS, JS, TS, Java, C)</h2>
 
 <p align="center">
   <a href="https://www.python.org" target="_blank">
