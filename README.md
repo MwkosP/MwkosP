@@ -5,7 +5,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Panagiotis Mokos</h1>
-<h3 align="center">A passionate ML and Web Dev Undergraduate Student from Greece</h3>
+<h3 align="center">ML and Web Dev from Greece</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/panagiotis-mokos-09237a254/" target="blank">
