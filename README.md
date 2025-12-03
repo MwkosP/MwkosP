@@ -6,7 +6,7 @@
 
 <h1 align="center">Hi 👋, I'm Panagiotis Mokos</h1>
 <h3 align="center">A passionate ML and Web Dev Undergraduate Student from Greece</h3>
-![My Image](taowhite.png)
+
 <p align="center">
   <a href="https://www.linkedin.com/in/panagiotis-mokos-09237a254/" target="blank">
     <img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="linkedin" height="40" width="40" />
@@ -15,6 +15,7 @@
     <img align="center" src="https://img.icons8.com/color/48/000000/twitter.png" alt="twitter" height="40" width="40" />
   </a>
 </p>
+![My Image](taowhite.png)
 
 <h2 align="left">About me:</h2>
 <br/>
