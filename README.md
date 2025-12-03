@@ -27,7 +27,8 @@
 - 📧 How to reach me **Mwkospanagiotis@gmail.com**
 - 💬 Ask me **Anything**
 - ⚡ Investing and Blockchain Enthusiast**
-- (τ) Bittensor's Tech is worth Watching: [Bittensor]([https://example.com](https://bittensor.com/))
+- (τ) Bittensor's Tech is worth Watching: [Bittensor](https://bittensor.com/)
+
    
 
 ---
