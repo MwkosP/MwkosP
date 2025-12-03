@@ -15,7 +15,9 @@
     <img align="center" src="https://img.icons8.com/color/48/000000/twitter.png" alt="twitter" height="40" width="40" />
   </a>
 </p>
+
 ![My Image](taowhite.png)
+
 
 <h2 align="left">About me:</h2>
 <br/>
