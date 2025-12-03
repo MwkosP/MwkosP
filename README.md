@@ -22,11 +22,13 @@
 <h2 align="left">About me:</h2>
 <br/>
 
-- 🌱 I’m currently learning **Machine Learning / Neural Networks and Web Development**       
-- 🎓 Final-year student at University of Macedonia      
+- 🌱 I’m currently learning **Machine Learning / Neural Networks(Data Science) and Web Development(Mainly Backend but also Frontend)**       
+- 🎓 Bsc Computer Science at University of Macedonia       
 - 📧 How to reach me **Mwkospanagiotis@gmail.com**
 - 💬 Ask me **Anything**
-- ⚡ Fun fact **Chess.com rating: 1500, I trade Crypto**  
+- ⚡ Investing and Blockchain Enthusiast**
+- (τ) Bittensor's Tech is worth Watching: [Bittensor]([https://example.com](https://bittensor.com/))
+   
 
 ---
 
