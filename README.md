@@ -4,7 +4,7 @@
   </a>
 </p>
 <h3 align="center">
-  <b><i>ML and Backend Dev, Greece</b>
+  <b><i>ML & Backend Dev, Greece</b>
 </h3>
 
 
