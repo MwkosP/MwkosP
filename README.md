@@ -4,8 +4,8 @@
   <img src="https://komarev.com/ghpvc/?username=MwkosP&label=Profile%20views&color=0e75b6&style=flat" alt="MwkosP" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Panagiotis Mokos</h1>
-<h3 align="center">ML and Web Dev from Greece</h3>
+<h1 align="center">Panagiotis Mokos</h1>
+<h3 align="center">ML and Backend Dev, Greece</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/panagiotis-mokos-09237a254/" target="blank">
@@ -17,17 +17,6 @@
 </p>
 
 ![My Image](taowhite.png)
-
-
-<h2 align="left">About me:</h2>
-<br/>
-
-- 🌱 I’m currently learning **Machine Learning / Neural Networks(Data Science) and Web Development(Mainly Backend but also Frontend)**       
-- 🎓 Bsc Computer Science at University of Macedonia       
-- 📧 How to reach me **Mwkospanagiotis@gmail.com**
-- 💬 Ask me **Anything**
-- ⚡ Investing and Blockchain Enthusiast**
-- (τ) Bittensor's Tech is worth Watching: [Bittensor](https://bittensor.com/)
 
    
 
@@ -61,7 +50,7 @@
 
 ---
 
-<h2 align="left">🌐 Web Frameworks Backend & Frontend: (FastApi, NextJS, React, Tailwind)</h2>
+<h2 align="left">Web Frameworks Backend & Frontend: (FastApi, NextJS, React, Tailwind)</h2>
 
 <p align="center">
   <a href="https://fastapi.tiangolo.com/" target="_blank">
@@ -80,7 +69,7 @@
 
 ---
 
-<h2 align="left">🤖 Machine Learning / AI Libraries: (Numpy, Pandas, TensorFlow, Pytorch, Scikit, MatplotLib) </h2>
+<h2 align="left">Machine Learning / AI Libraries: (Numpy, Pandas, TensorFlow, Pytorch, Scikit, MatplotLib) </h2>
 
 <p align="center">
   <a href="https://www.tensorflow.org/" target="_blank">
@@ -105,7 +94,7 @@
 
 ---
 
-<h2 align="left">🛠️ Tools & IDEs: (Visual Stucio Code, Google Colab, jupyter Notebook)</h2>
+<h2 align="left">Tools & IDEs: (Visual Stucio Code, Google Colab, jupyter Notebook)</h2>
 
 <p align="center">
   <a href="https://colab.research.google.com/" target="_blank">
@@ -118,10 +107,3 @@
 
 
 
----
-
-<h2 align="left">🚀 Projects:</h2>
-<h3 align="center">Check out my pinned repositories!!</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/feathericons/feather/master/icons/arrow-down-circle.svg" width="40" height="40" alt="Down arrow" />
-</p>
