@@ -1,4 +1,4 @@
-[![Glow Name](https://your-repo-or-vercel/panagiotis-glow.svg)](#)
+<h1 align="center">Panagiotis Mokos</h1>
 
 
 
