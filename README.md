@@ -18,28 +18,8 @@
 ---
 
 ## Backend
-- **Python:** FastAPI, SQLAlchemy, NumPy, Pandas
-
+- **Python:** NumPy, Pandas, MatplotLib, Plotly, FastAPI, SQLAlchemy
 - **SQL**
-  - Database design
-  - Complex queries
-  - Joins & indexing
 
-## 🤖 Machine Learning / AI
-- **Core Libraries**
-  - NumPy
-  - Pandas
-
-- **Machine Learning**
-  - Scikit-learn
-
-- **Deep Learning**
-  - TensorFlow
-  - PyTorch
-
-- **Visualization**
-  - Matplotlib
-
-
-
-
+## Machine Learning / Data Science
+- Scikit-learn, TensorFlow, PyTorch, Optuna
