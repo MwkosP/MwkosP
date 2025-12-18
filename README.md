@@ -23,3 +23,6 @@
 
 ## Machine Learning / Data Science
 - Scikit-learn, TensorFlow, PyTorch, Optuna
+
+## Web
+-Html, Css, Js, React, Tailwind, Ts, Next.Js
