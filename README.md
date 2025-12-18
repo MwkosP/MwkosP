@@ -3,8 +3,10 @@
     <img src="https://raw.githubusercontent.com/MwkosP/MwkosP/main/downloads.svg" alt="Panagiotis Mokos" />
   </a>
 </p>
+<h3 align="center">
+  <b><i>ML and Backend Dev, Greece</i></b>
+</h3>
 
-<h3 align="center">ML and Backend Dev, Greece</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/panagiotis-mokos-09237a254/" target="blank">
