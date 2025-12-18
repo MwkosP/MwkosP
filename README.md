@@ -1,13 +1,5 @@
-<h1 align="center" style="
-  color: #00C853;
-  text-shadow:
-    0 0 5px #00C853,
-    0 0 15px #00C853,
-    0 0 30px #00C853,
-    0 0 50px #00C853;
-">
-  Panagiotis Mokos
-</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=4000&pause=1000&color=00C853&vCenter=true&width=480&lines=HI%2C+I'M+PANAGIOTIS+MOKOS!)](https://git.io/typing-svg)
+
 
 
 
