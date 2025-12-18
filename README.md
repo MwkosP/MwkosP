@@ -1,17 +1,4 @@
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com
-      ?font=Fira+Code
-      &size=32
-      &duration=4000
-      &pause=1000
-      &color=00E6FF
-      &center=true
-      &vCenter=true
-      &width=520
-      &lines=HI%2C+I'M+PANAGIOTIS+MOKOS!" />
-  </a>
-</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=4000&pause=1000&color=00C853&vCenter=true&width=480&lines=Panagiotis%2C+Mokos)](https://git.io/typing-svg)
 
 
 
