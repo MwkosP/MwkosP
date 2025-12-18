@@ -1,0 +1,26 @@
+<svg width="800" height="120" viewBox="0 0 800 120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Glow filter -->
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="4" result="coloredBlur"></feGaussianBlur>
+      <feMerge>
+        <feMergeNode in="coloredBlur"></feMergeNode>
+        <feMergeNode in="SourceGraphic"></feMergeNode>
+      </feMerge>
+    </filter>
+
+    <!-- Gradient -->
+    <linearGradient id="textGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FFFFFF"></stop>
+      <stop offset="100%" stop-color="#9C27B0"></stop>
+    </linearGradient>
+  </defs>
+
+  <!-- Animated text -->
+  <text x="50%" y="60%" text-anchor="middle" dominant-baseline="middle" font-family="Fira Code, monospace" font-size="40" fill="url(#textGradient)" filter="url(#glow)">
+    Panagiotis Mokos
+
+    <!-- Fade / pulse animation -->
+    <animate attributeName="opacity" from="0.6" to="1" dur="2.5s" repeatCount="indefinite" direction="alternate"></animate>
+  </text>
+</svg>
