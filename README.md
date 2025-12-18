@@ -12,7 +12,6 @@
   </a>
 </p>
 
-![My Image](taowhite.png)
 
    
 
