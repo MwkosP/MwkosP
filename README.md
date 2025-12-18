@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=4000&pause=1000&color=00C853&vCenter=true&width=480&lines=HI%2C+I'M+PANAGIOTIS+MOKOS!)](https://git.io/typing-svg)
+[![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=Panagiotis%20Mokos&width=800&height=400)](https://github.com/Akshay090/svg-banners)
 
 
 
