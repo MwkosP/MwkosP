@@ -4,7 +4,7 @@
   </a>
 </p>
 <h3 align="center">
-  <b><i>ML and Backend Dev, Greece</i></b>
+  <b><i>ML and Backend Dev, Greece</b>
 </h3>
 
 
@@ -31,3 +31,4 @@
 
 ## Web
 - Html, Css, Js, React, Tailwind, Ts, Next.Js
+</i>
