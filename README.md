@@ -17,14 +17,8 @@
 
 ---
 
-## 🧠 Backend
-- **Python**
-  - FastAPI
-  - SQLAlchemy
-  - Pydantic
-  - Requests
-  - NumPy
-  - Pandas
+## Backend
+- **Python:** FastAPI, SQLAlchemy, NumPy, Pandas
 
 - **SQL**
   - Database design
