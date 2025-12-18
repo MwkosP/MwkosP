@@ -31,4 +31,4 @@
 - Scikit-learn, TensorFlow, PyTorch, Optuna
 
 ## Web
--Html, Css, Js, React, Tailwind, Ts, Next.Js
+- Html, Css, Js, React, Tailwind, Ts, Next.Js
