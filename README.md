@@ -1,6 +1,9 @@
-[![Panagiotis Mokos](https://raw.githubusercontent.com/MwkosP/MwkosP/panagiotis-glow.svg)](#)
+<p align="center">
+  <a href="#">
+    <img src="https://raw.githubusercontent.com/MwkosP/MwkosP/main/downloads.svg" alt="Panagiotis Mokos" />
+  </a>
+</p>
 
-<h1 align="center">Panagiotis Mokos</h1>
 <h3 align="center">ML and Backend Dev, Greece</h3>
 
 <p align="center">
