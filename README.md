@@ -1,4 +1,5 @@
-[![Gradient Text](https://capsule-render.vercel.app/api?type=transparent&text=Panagiotis%20Mokos&fontSize=38&fontColor=gradient&color=0:00C853,100:00E6FF&animation=fadeIn&height=90)](https://capsule-render.vercel.app/)
+[![Gradient Text](https://capsule-render.vercel.app/api?type=transparent&text=Panagiotis%20Mokos&fontSize=38&fontColor=gradient&color=0:FFFFFF,100:9C27B0&animation=fadeIn&height=90)](https://capsule-render.vercel.app/)
+
 
 
 
