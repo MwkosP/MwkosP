@@ -1,4 +1,4 @@
-[![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=Panagiotis%20Mokos&width=800&height=400)](https://github.com/Akshay090/svg-banners)
+[![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=Panagiotis%20Mokos&width=300&height=100)](https://github.com/Akshay090/svg-banners)
 
 
 
