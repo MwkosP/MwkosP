@@ -1,14 +1,13 @@
-
 <h1 align="center" style="
-  color: #ffffff;
+  color: #fff;
   text-shadow:
     0 0 5px #00e6ff,
-    0 0 10px #00e6ff,
-    0 0 20px #00e6ff,
-    0 0 40px #00e6ff;
+    0 0 15px #00e6ff,
+    0 0 30px #00e6ff;
 ">
   Panagiotis Mokos
 </h1>
+
 
 
 <h3 align="center">ML and Backend Dev, Greece</h3>
