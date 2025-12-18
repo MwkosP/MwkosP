@@ -1,4 +1,11 @@
-[![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=Panagiotis%20Mokos&width=600&height=300)](https://github.com/Akshay090/svg-banners)
+<img src="https://capsule-render.vercel.app/api
+?type=transparent
+&text=Panagiotis%20Mokos
+&fontSize=40
+&fontColor=00C853
+&animation=fadeIn
+&height=100" />
+
 
 
 
