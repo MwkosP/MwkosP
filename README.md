@@ -22,7 +22,7 @@
 
 ---
 
-**Backend**
+## Backend
 - Python: NumPy, Pandas, MatplotLib, Plotly, FastAPI, SQLAlchemy
 - SQL
 
