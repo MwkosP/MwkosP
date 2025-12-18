@@ -22,9 +22,9 @@
 
 ---
 
-## Backend
-- **Python:** NumPy, Pandas, MatplotLib, Plotly, FastAPI, SQLAlchemy
-- **SQL**
+**Backend**
+- Python: NumPy, Pandas, MatplotLib, Plotly, FastAPI, SQLAlchemy
+- SQL
 
 ## Machine Learning / Data Science
 - Scikit-learn, TensorFlow, PyTorch, Optuna
