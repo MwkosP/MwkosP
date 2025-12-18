@@ -1,13 +1,5 @@
+
 <h1 align="center">Panagiotis Mokos</h1>
-
-
-
-
-
-
-
-
-
 <h3 align="center">ML and Backend Dev, Greece</h3>
 
 <p align="center">
