@@ -32,6 +32,6 @@
 ## Web
 - Html, Css, Js, React, Tailwind, Ts, Next.Js
 
-## OtherLibraries/Frameworks)
-- Ta-Lib, finta, yfinance, joblib, os, pprint, devtools
+## Other Libraries 
+- (Python): Ta-Lib, finta, yfinance, joblib, os, pprint, devtools
 </i>
