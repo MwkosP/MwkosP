@@ -9,7 +9,7 @@
 
 
 <p align="center">
-  <a href="[https://mwkosp.github.io/MwkosP-Portfolio/](https://mwkosp.github.io/MwkosP_Portfolio/)" target="_blank">
+  <a href="https://mwkosp.github.io/MwkosP_Portfolio/" target="_blank">
     <img align="center" src="https://img.icons8.com/color/48/domain.png" alt="website" height="40" width="40" />
   </a>  
   <a href="https://www.linkedin.com/in/panagiotis-mokos-09237a254/" target="_blank">
