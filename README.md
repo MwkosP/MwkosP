@@ -35,7 +35,7 @@
 - Scikit-learn, TensorFlow, PyTorch, Optuna
 
 ## Web
-- Html, Css, Js, React, Tailwind, Ts, Next.Js
+- Worked with: Html, Css, Js, React, Tailwind, Ts, Next.Js
 
 ## Other Libraries 
 - (Python): Ta-Lib, finta, yfinance, joblib, os, pprint, devtools
