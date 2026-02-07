@@ -32,7 +32,7 @@
 - (Currently learning Rust)
 
 ## Machine Learning / Data Science
-- Scikit-learn, TensorFlow, PyTorch, Optuna
+- Python: Scikit-learn, TensorFlow, PyTorch, Optuna
 
 ## Web
 - Worked with: Html, Css, Js, React, Tailwind, Ts, Next.Js
