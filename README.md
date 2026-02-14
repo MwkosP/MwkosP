@@ -29,7 +29,7 @@
 ## Backend
 - Python: NumPy, Pandas, MatplotLib, Plotly, FastAPI, SQLAlchemy
 - SQL
-- (Currently learning Rust)
+- (Currently learning Rust,Linux)
 
 ## Machine Learning / Data Science
 - Python: Scikit-learn, TensorFlow, PyTorch, Optuna
