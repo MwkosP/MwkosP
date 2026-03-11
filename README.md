@@ -39,4 +39,7 @@
 
 ## Other Libraries 
 - (Python): Ta-Lib, finta, yfinance, joblib, os, pprint, devtools
+
+## Tools 
+- Git, Github, APIs:(RestAPIs, WebSockets), Visual Studio Code, Google Colab, AI Assistants:(Chatgpt,Claude,Cursor), CLIs, Blockchains. 
 </i>
