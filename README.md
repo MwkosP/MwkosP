@@ -18,7 +18,7 @@
 
 ---
 
-## Backend
+## Backend / Data
 - Python: NumPy, Pandas, MatplotLib, Plotly, FastAPI, SQLAlchemy
 - SQL
 - (Currently learning Rust,Linux)
