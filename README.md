@@ -29,6 +29,9 @@
 ## Web
 - Worked with: Html, Css, Js, React, Tailwind, Ts, Next.Js
 
+## Linux
+- Nmap, metasploit, tmux, fzf, and many more.
+
 ## Other Libraries 
 - (Python): Ta-Lib, finta, yfinance, joblib, os, pprint, devtools
 
