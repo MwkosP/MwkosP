@@ -1,6 +1,6 @@
 <p align="center">
   <a href="#">
-    <img src="https://raw.githubusercontent.com/MwkosP/MwkosP/main/taoblack.png" alt="Panagiotis Mokos" />
+    <img src="https://raw.githubusercontent.com/MwkosP/MwkosP/main/IMG_3021.png" alt="Panagiotis Mokos" />
   </a>
 </p>
 <h3 align="center">
