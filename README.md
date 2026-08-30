@@ -10,7 +10,7 @@
 
 <div align="center">
 
-[![Website](https://img.icons8.com/color/48/domain.png)](https://mwkosp.github.io/MwkosP_Portfolio/)&nbsp;&nbsp;[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/panagiotis-mokos-09237a254/)&nbsp;&nbsp;[![Twitter](https://img.icons8.com/color/48/000000/twitter.png)](https://x.com/MwkosP)
+[![Website](https://img.icons8.com/color/48/domain.png)](https://mwkosp.github.io/Portfolio/)&nbsp;&nbsp;[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/panagiotis-mokos-09237a254/)&nbsp;&nbsp;[![Twitter](https://img.icons8.com/color/48/000000/twitter.png)](https://x.com/MwkosP)
 
 </div>
 
